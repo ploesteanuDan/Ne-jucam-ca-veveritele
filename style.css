@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+.nenea-text{
+    color: rgb(102, 62, 30);
+    background: rgb(93, 194, 139);
+    text-align: center;
+    padding: 3em;
+    margin: 0;
+}
+
