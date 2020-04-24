@@ -1,15 +1,40 @@
 body{
     margin: 0;
+    background-image: url('bg_image.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
 }
-.nenea-text{
-    color: rgb(102, 62, 30);
-    background: rgb(93, 194, 139);
-    text-align: center;
-    padding: 3em;
-    margin: 0;
-    line-height: 3em; 
+.Glint{
+    margin: 1em;
+    font-weight: 1000;
+    color: white;
 }
-.nenea-text p{
-    text-transform: capitalize;
+.Glint span{
+    color: green;
+}
+.hero{
+    margin: 10em;
+    margin-right: 35%;
+    margin-bottom: 4em;
+    color:rgba(255, 255, 255, 0.87);
+    line-height: 2.5em;
+}
+.hero span{
+    font-size: medium;
+}
+.btns{
+    margin-bottom: 4em;
+    margin-left: 10em;
+}
+.btns button{
+    background-color: rgba(255, 255, 255, 0);
+    
+    color: white;
+    width: 10.2em;
+    height: 2em;
+    
+    
+    
+
 }
 
